@@ -78,8 +78,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	        <div class="col-md-6">
 		        <div class="menu1">
 		        <ul class="menu">
-			        <li><a href="promociones.php">PROMOCIONES</a></li>
-			        <li><a href="experiencias.php">EXPERIENCIAS</a></li>
+			        <!--<li><a href="promociones.php">PROMOCIONES</a></li>-->
+				    <li><a href="promociones_Whatsapp.php">PROMOCIONES</a></li>
+			        <!--<li><a href="experiencias.php">EXPERIENCIAS</a></li>-->
 			        <li><a href="index.php#ubicacion">UBICACI&Oacute;N</a></li>
 			        <li><a href="https://reservations.travelclick.com/110467?room=Tipo+de+habitaci%C3%B3n&DateIn=&DateOut=&Adults=Huespedes&languageid=2#/guestsandrooms" target="_blank">RESERVAS</a></li>
 			        <li><a href="contacto.php">CONTACTO</a></li>
