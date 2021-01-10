@@ -11,9 +11,11 @@
 	       <!--<img src="img/_Spa/KER_Spa_Banner.jpg" alt="KER_Spa_Banner" class="img-responsive" />-->
 	       <img src="img/KER_SAN_TELMO_WebSite_Spa_Armonia_Banner.jpg" alt="09_KER_Spa_img01" class="img-responsive" />
 	       <div class="lista">
-	       <img src="https://kerrecoleta.com.ar/KER_BELGRANO_Website/2/KER_BELGRANO_SPA_foto01.jpg" alt="09_KER_Spa_img01" class="img-responsive hidden-xs" />
-	       <img src="https://kerrecoleta.com.ar/KER_BELGRANO_Website/2/KER_BELGRANO_SPA_ListadePrecios_VERSION_MOBILE_ copia.jpg" alt="KER_BELGRANO_SPA_banner01" class="img-responsive hidden-sm hidden-lg"/>
-	       <div class="texto">
+	       <!--<img src="https://kerrecoleta.com.ar/KER_BELGRANO_Website/2/KER_BELGRANO_SPA_foto01.jpg" alt="09_KER_Spa_img01" class="img-responsive hidden-xs" />-->
+		<img src="https://kerrecoleta.com.ar/kerrecoleta-main/KER_BELGRANO_Website/2/KER_BELGRANO_SPA_foto01.jpg" alt="09_KER_Spa_img01" class="img-responsive hidden-xs" />
+	       <!--<img src="https://kerrecoleta.com.ar/KER_BELGRANO_Website/2/KER_BELGRANO_SPA_ListadePrecios_VERSION_MOBILE_ copia.jpg" alt="KER_BELGRANO_SPA_banner01" class="img-responsive hidden-sm hidden-lg"/>-->
+		<img src="https://kerrecoleta.com.ar/kerrecoleta-main/KER_BELGRANO_Website/2/KER_BELGRANO_SPA_ListadePrecios_VERSION_MOBILE_ copia.jpg" alt="KER_BELGRANO_SPA_banner01" class="img-responsive hidden-sm hidden-lg"/>	       
+		<div class="texto">
 		       <h1>LISTA DE PRECIOS</h1>
 		       <h2>LIST PRICE</h2>
 		       <a href="contacto.php?tipo=spa#contacto">RESERV&Aacute;</a>
