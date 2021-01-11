@@ -63,12 +63,12 @@
 		<style>
         .btn-whatsapp {
 			position: fixed;
-   			width: 50px;
-    		height: 50px;
-    		line-height: 50px;
+   			width: 55px;
+    		height: 55px;
+    		line-height: 55px;
     		bottom: 30px;
     		left: 30px;
-    		border-radius: 55px;
+    		border-radius: 50px;
     		box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
 			z-index: 100;
 		}
