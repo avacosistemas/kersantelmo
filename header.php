@@ -70,6 +70,7 @@
     		left: 30px;
     		border-radius: 50px;
     		box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+			z-index: 100;
 		}
 
 		.btn-whatsapp:hover {
