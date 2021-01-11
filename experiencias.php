@@ -126,7 +126,18 @@ if(mysqli_num_rows($experiencias)){
 	        <div class="col-md-6"><img src="img/KER_SAN_TELMO_EXPERIENCIAS_WEB_foto_02.jpg" alt="" class="img-responsive"/></div>
 	        <div class="clear"></div>
         </div>
-        
+		
+					  
+<!--  SE AGREGA BOTON DE WHATSAPP   -->
+
+<div >
+        <a href="https://api.whatsapp.com/send?phone=5491130174497&text=Hola!%20Me%20contacto%20a%20través%20de%20la%20web%20y%20me%20gustaría%20realizar%20una%20consulta" target="_blank">
+            <img class="btn-whatsapp" src="img/icons/icon-wsp.png" alt="">
+        </a>
+    </div>
+
+<!--  SE AGREGA BOTON DE WHATSAPP   -->
+
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>
 		<link rel="stylesheet" href="js/jquery.bxslider1/jquery.bxslider.css">
