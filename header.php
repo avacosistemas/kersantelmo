@@ -58,6 +58,25 @@
                  src="https://www.facebook.com/tr?id=823360734875729&ev=PageView&noscript=1"/>
         </noscript>
         <!-- End Facebook Pixel Code -->
+
+		<!-- estilo de Botón de Wsp -->
+		<style>
+        .btn-whatsapp {
+			 position: fixed;
+   			 width: 50px;
+    		height: 50px;
+    		line-height: 50px;
+    		bottom: 30px;
+    		left: 30px;
+    		border-radius: 50px;
+    		box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+		}
+
+		.btn-whatsapp:hover {
+  			text-decoration: none;
+    		box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);
+		}
+    </style>
 	 </head>
 <!-- End Google Tag Manager —>
         
