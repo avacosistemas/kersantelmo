@@ -65,7 +65,7 @@
 			position: fixed;
    			width: 45px;
     		height: 45px;
-    		line-height: 55px;
+    		line-height: 45px;
     		bottom: 30px;
     		left: 30px;
     		border-radius: 25px;
