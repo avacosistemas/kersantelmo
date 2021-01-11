@@ -63,19 +63,19 @@
 		<style>
         .btn-whatsapp {
 			position: fixed;
-   			width: 55px;
-    		height: 55px;
+   			width: 45px;
+    		height: 45px;
     		line-height: 55px;
     		bottom: 30px;
     		left: 30px;
     		border-radius: 50px;
-    		box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    		box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
 			z-index: 100;
 		}
 
 		.btn-whatsapp:hover {
   			text-decoration: none;
-    		box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);
+    		box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.4);
 		}
     </style>
 	 </head>
