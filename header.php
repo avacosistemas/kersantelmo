@@ -68,7 +68,7 @@
     		line-height: 55px;
     		bottom: 30px;
     		left: 30px;
-    		border-radius: 50px;
+    		border-radius: 30px;
     		box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
 			z-index: 100;
 		}
