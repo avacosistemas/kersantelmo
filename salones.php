@@ -9,7 +9,12 @@
         
        <div class="salones">
 	       <img src="img/_Salones/_KER_Salones_Banner.jpg" alt="_KER_Salones_Banner" class="img-responsive" />
-	       <div class="col-md-6">
+	   </div>
+
+<?php include("protocolo_covid.php");?>  
+
+       <div class="salones">		   
+		   <div class="col-md-6">
 		       <img src="img/KER_Salones/KER_SAN_TELMO_SALONES_WEB/KER_SAN_TELMO_SALONES_WEB_imagen_01.jpg" alt="KER_Salones_img_01" class="img-responsive" />
 	       </div>
 	       <div class="col-md-6">
@@ -83,7 +88,8 @@ Formato cocktail, banquete con o sin pista de baile, auditorio, son algunas de l
 			       
 		       </div>
 	       </div>
-        
+					  
+		   <?php include("mensaje_whatsapp.php");?>
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>
 		<link rel="stylesheet" href="js/jquery.bxslider1/jquery.bxslider.css">

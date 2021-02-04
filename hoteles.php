@@ -19,7 +19,9 @@
 	       <a href="http://kerurquiza.com.ar/" target="_blank" class="hidden-md hidden-sm hidden-lg"><img src="img/00_KER_RECOLETA_HOTELES_banner_urquiza.jpg" alt="KER_Mapadesitio_Urban_Color" /></a>
        </div>
         
-        
+        <?php include("protocolo_covid.php");?>  
+					  
+       <?php include("mensaje_whatsapp.php");?>
         
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>

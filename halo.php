@@ -9,7 +9,10 @@
         
        <div class="halo">
 	       <img src="img/_halo/KER_Halo_banner.jpg" alt="KER_Halo_banner" class="img-responsive" />
-	       <h1>Taste everything</h1>
+	   </div>
+<?php include("protocolo_covid.php");?>  
+	   <div class="halo">
+		 <h1>Taste everything</h1>
 	       <p style="color:#fff; text-align:center; background-color:#000; padding-bottom:45px; font-size:16px;">Desayuno Buffet Americano, almuerzos, cenas, cocktails & bar, meriendas, té, brunchs.</p>
 	       <div class="item">
 		       <img src="img/_halo/KER_Halo_img_01.jpg" alt="KER_Halo_img_01" class="img-responsive" />
@@ -69,7 +72,8 @@
 	       </div>
        </div>
         
-        
+					  
+	   <?php include("mensaje_whatsapp.php");?>      
         
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>

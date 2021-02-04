@@ -9,8 +9,8 @@
         
         <?php include("habitacionesheader.php");?>
 		
-		
-	        
+<?php include("protocolo_covid.php");?>  		
+
         <div class="habitaciones_detalle">
 	        <div class="container">
 		        <div class="col-md-12"><h1>HABITACI&Oacute;N <span>CLASSIC</span></h1></div>
@@ -94,7 +94,7 @@ Grupo electrógeno
 	        <img src="img/_habitaciones/01Classic_Banner_inferior_Classic.jpg" alt="01Classic_Banner_inferior_Classic" class="foto img-responsive">
         </div>
         
-        
+		<?php include("mensaje_whatsapp.php");?>       
         
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>

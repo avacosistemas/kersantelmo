@@ -122,7 +122,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			        </li>
 			        <li><a href="halo.php">HALO</a></li>
 			        <li><a href="salones.php">EVENTOS</a></li>
-			        <li><a href="spa.php">SPA</a></li>
+			        <!--<li><a href="spa.php">SPA</a></li>-->
 			        <li><a href="hoteles.php">HOTELES</a></li>
 			        <li><a href="#">ES</a></li>
 			        <li><a href="#">EN</a></li>

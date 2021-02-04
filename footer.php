@@ -23,7 +23,7 @@ Buenos Aires - Argentina</p>
 			        <li><a href="habitaciones.php">HABITACIONES</a></li>
 			        <li><a href="halo.php">HALO</a></li>
 			        <li><a href="salones.php">EVENTOS</a></li>
-			        <li><a href="spa.php">SPA</a></li>
+			        <!--<li><a href="spa.php">SPA</a></li>-->
 		        </ul>
 	        </div>
 	        <div class="col-md-3 col4"><img src="img/Home_Ker_San_Telmo_logo.png"></div>
